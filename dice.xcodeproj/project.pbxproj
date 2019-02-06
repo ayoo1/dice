@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D047A07220B901D007BC85E /* README in Resources */ = {isa = PBXBuildFile; fileRef = 8D047A06220B901D007BC85E /* README */; };
 		8D990E22220A334B0021C3FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D990E21220A334B0021C3FC /* AppDelegate.swift */; };
 		8D990E24220A334B0021C3FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D990E23220A334B0021C3FC /* ViewController.swift */; };
 		8D990E27220A334B0021C3FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D990E25220A334B0021C3FC /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D047A06220B901D007BC85E /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		8D990E1E220A334B0021C3FC /* dice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D990E21220A334B0021C3FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D990E23220A334B0021C3FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				8D990E21220A334B0021C3FC /* AppDelegate.swift */,
 				8D990E23220A334B0021C3FC /* ViewController.swift */,
 				8D990E25220A334B0021C3FC /* Main.storyboard */,
+				8D047A06220B901D007BC85E /* README */,
 				8D990E28220A334D0021C3FC /* Assets.xcassets */,
 				8D990E2A220A334D0021C3FC /* LaunchScreen.storyboard */,
 				8D990E2D220A334D0021C3FC /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D047A07220B901D007BC85E /* README in Resources */,
 				8D990E2C220A334D0021C3FC /* LaunchScreen.storyboard in Resources */,
 				8D990E29220A334D0021C3FC /* Assets.xcassets in Resources */,
 				8D990E27220A334B0021C3FC /* Main.storyboard in Resources */,
